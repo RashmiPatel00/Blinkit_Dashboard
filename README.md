@@ -24,4 +24,13 @@ Chart's Requirements:
     Chart Type: Stacked Column Chart.
  * Total Sales by Outlet Establishment:
     Objective: Evaluate how the age or type of outlet establishment influences total sales.
-    Chart Type: Line Chart. 
+    Chart Type: Line Chart.
+ * Sales by Outlet Size:
+    Objective: Analyse the correlation between outlet size and total sales.
+    Chart Type: Donut/ Pie Chart
+ * Sales by Outlet Location:
+    Objective: Assess the geographic distribution of sales across different locations.
+    Chart Type: Funnel Map.
+ * All Metrics by Outlet Type:
+    Objective: Provide a comprehensive view of all key mertrics(Total sales, Average sales, Number of items, Average Rating) broken down by different outlet types.
+   Chart type: Matrix Card.
